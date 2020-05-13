@@ -47,4 +47,3 @@ class FlatsController < ApplicationController
   end
 end
 
-end
